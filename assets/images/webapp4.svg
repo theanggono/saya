@@ -1,0 +1,43 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f4f4f4" />
+
+  <!-- Computer Screen -->
+  <rect x="40" y="30" width="120" height="80" rx="5" ry="5" fill="#2c3e50" />
+  
+  <!-- DevOps Title -->
+  <text x="100" y="50" font-size="12" fill="#ffffff" font-weight="bold" text-anchor="middle" font-family="Arial">DevOps</text>
+  
+  <!-- Chain (representing continuous integration) -->
+  <!-- Left Circle -->
+  <circle cx="70" cy="80" r="10" fill="#3498db" />
+  <rect x="80" y="75" width="20" height="10" fill="#3498db" />
+  <!-- Right Circle -->
+  <circle cx="110" cy="80" r="10" fill="#3498db" />
+  
+  <!-- Gear (representing automation) -->
+  <!-- Outer circle for gear -->
+  <circle cx="140" cy="80" r="10" fill="#2ecc71" />
+  <!-- Inner circles to represent gear teeth -->
+  <circle cx="135" cy="75" r="2" fill="#ffffff" />
+  <circle cx="145" cy="75" r="2" fill="#ffffff" />
+  <circle cx="145" cy="85" r="2" fill="#ffffff" />
+  <circle cx="135" cy="85" r="2" fill="#ffffff" />
+  
+  <!-- Stand -->
+  <rect x="85" y="115" width="30" height="10" fill="#2c3e50" />
+  
+  <!-- Base -->
+  <rect x="75" y="125" width="50" height="10" fill="#34495e" />
+
+  <!-- Keyboard outline -->
+  <rect x="40" y="145" width="120" height="15" fill="#e0e0e0" rx="3" />
+
+  <!-- Small keys on keyboard -->
+  <rect x="50" y="148" width="10" height="8" fill="#b3b3b3" />
+  <rect x="65" y="148" width="10" height="8" fill="#b3b3b3" />
+  <rect x="80" y="148" width="10" height="8" fill="#b3b3b3" />
+  <rect x="95" y="148" width="10" height="8" fill="#b3b3b3" />
+  <rect x="110" y="148" width="10" height="8" fill="#b3b3b3" />
+  <rect x="125" y="148" width="10" height="8" fill="#b3b3b3" />
+</svg>
